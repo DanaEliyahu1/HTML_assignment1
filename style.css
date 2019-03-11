@@ -159,7 +159,13 @@ div.wpforms-container-full .wpforms-form input[type=date], div.wpforms-container
 		padding-top: 2px;
 	}
 	
-
+#T{
+	border-width:medium;
+border-collapse:seperate;
+border-spacing:2px; 
+border-style:solid; 
+border-color:grey;
+}
 
 	
 	
